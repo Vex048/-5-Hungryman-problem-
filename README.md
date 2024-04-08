@@ -1,3 +1,3 @@
 # -5-Hungryman-problem-
-This is solution to slightly diffrent 5 Dining philosopher problem 
+This is solution to slightly diffrent 5 Dining philosopher problem.
 Works on Linux 
